@@ -49,11 +49,11 @@ Attending university of Internet Systems at FIAP.
 <p align="left">
 📫 How to reach me
 </p>
-  <a href="#" alt="Linkedin">
+  <a href="link=https://www.linkedin.com/in/jefersonribeirogomes" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jefersonribeirogomes/" /></a> 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/jefersonrgomess" alt="Facebook">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/jefersonrgomess"/></a> 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jefersonrgomes/"/></a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=jeferson.rgomes#5396"/></a>
+  <a href="https://www.instagram.com/jefersonrgomes/" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jefersonrgomes/"/></a>
 
 </p>  
