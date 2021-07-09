@@ -1,3 +1,4 @@
+
 ### Hi 👋 I'm Jeff, Welcome to my profile!
 
 <!--
@@ -32,7 +33,6 @@ Attending university of Internet Systems at FIAP.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </strong>
-
 </p>
 
 [![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
@@ -61,5 +61,7 @@ Attending university of Internet Systems at FIAP.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jefersonrgomes/"/></a>
 
 </p>  
+
+  ![kotlin_with_adroid-01_4x](https://user-images.githubusercontent.com/10172471/125140097-27d16180-e0e8-11eb-8b63-5bf3f21a5f85.png)
 
 
