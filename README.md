@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-A little about myself.
 I´m 36 years old from São Paulo-Brazil, single and Cristie's😽 pet human 😁.
 <br>
 Passionate about innovation and technology, 🎮 Gamer, 🖖 Geek and amateur movie critic on Netflix🍿.
