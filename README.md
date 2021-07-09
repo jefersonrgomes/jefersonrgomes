@@ -50,9 +50,6 @@ Attending university of Internet Systems at FIAP.
 </p>
   <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=jefersonrgomes&theme=Tokyonight)](https://github.com/iuricode/)
-
-
 <p align="left">
 📫 How to reach me
 </p>
