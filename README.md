@@ -20,7 +20,6 @@ Passionate about innovation and technology, 🎮 Gamer, 🖖 Geek and amateur mo
 Attending university of Internet Systems at FIAP.
 </p>
 
-  <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -34,6 +33,7 @@ Attending university of Internet Systems at FIAP.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </strong>
 </p>
+  <br>
 
 [![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
 
