@@ -32,7 +32,11 @@ Attending university of Internet Systems at FIAP.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </strong>
+
 </p>
+
+[![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
+
   <br>
 
 <p align="left">
@@ -46,6 +50,9 @@ Attending university of Internet Systems at FIAP.
 </p>
   <br>
 
+[![card](https://github-readme-stats.vercel.app/api?username=jefersonrgomes&theme=Tokyonight)](https://github.com/iuricode/)
+
+
 <p align="left">
 📫 How to reach me
 </p>
@@ -57,3 +64,5 @@ Attending university of Internet Systems at FIAP.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jefersonrgomes/"/></a>
 
 </p>  
+
+
