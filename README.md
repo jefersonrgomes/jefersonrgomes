@@ -61,6 +61,6 @@ Attending university of Internet Systems at FIAP.
 
 </p>  
 
-  ![kotlin_with_adroid-01_4x](https://user-images.githubusercontent.com/10172471/125140097-27d16180-e0e8-11eb-8b63-5bf3f21a5f85.png)
+![hd-wallpaper-of-cool-android-backpack-wallpaper-for-desktop-tablet-or-laptop-tablet-1489786096](https://user-images.githubusercontent.com/10172471/126057616-27bdaae1-b534-4f78-ad06-18c54b2602eb.jpg)
 
 
