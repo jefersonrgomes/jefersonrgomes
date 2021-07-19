@@ -1,17 +1,23 @@
 ### Hi 👋 I'm Jeff, Welcome to my profile!
 ![image](https://user-images.githubusercontent.com/10172471/126145323-69e55029-d649-4d5d-b6d1-f1494c6367b7.png)
 
-<p align="left"> 
-I´m 36 years old from São Paulo-Brazil, single and Cristie's😽 pet human 😁.
-<br>
+
+<p align="left"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300px">
+
+  <br>
+  
+I´m 36 years old from São Paulo-Brazil, single and Cristie's😽 pet human 😁.<br>
 Passionate about innovation and technology, <br>
 🎮 Gamer, 🖖 Geek and amateur movie critic on Netflix🍿.
 <br>
 Attending university of Internet Systems at FIAP. 
+<p align="left"> 
+
 </p>
+<br>
+<br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px">
-
+#
 
 <p align="left">
   💬 Ask me about 
@@ -47,7 +53,6 @@ Attending university of Internet Systems at FIAP.
 </p>  
 
 ## Projetos Recentes
-
 [![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
 
 Projeto      |[Calculadora IMC](https://github.com/jefersonrgomes/Android_Kotlin-CalculadoraIMC-SantanderBootcamp2021)|[Cartão de Negocios compartilhavel](https://github.com/jefersonrgomes/Android_Kotlin-BusinessCard-BANCOINTER_Bootcamp_2021)
