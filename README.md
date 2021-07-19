@@ -17,7 +17,7 @@ Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga A
 #
 
 <p align="left">
-  💬 Ask me about 
+  💬 Vamos falar sobre -> 
   <br>
 <strong>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=purple" />    
@@ -28,7 +28,7 @@ Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga A
 </p>
  
 <p align="left">
-  🛠 Tools i use<br><strong>
+  🛠 Ferramentas que eu uso no dia a dia-><br><strong>
   
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -38,7 +38,7 @@ Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga A
 </p>
  
 <p align="left">
-📫 How to reach me
+📫 Como entrar em contato! ->
 </p>
   <a href="https://www.linkedin.com/in/jefersonribeirogomes" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jefersonribeirogomes/" /></a> 
