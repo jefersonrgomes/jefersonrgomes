@@ -1,18 +1,15 @@
-### Hi 👋 I'm Jeff, Welcome to my profile!
+### Olá 👋 sou o Jeff, Seja bem vindo ao meu Portifolio!
 ![image](https://user-images.githubusercontent.com/10172471/126145323-69e55029-d649-4d5d-b6d1-f1494c6367b7.png)
 
-
 <p align="left"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300px">
-
-  <br>
-  
-I´m 36 years old from São Paulo-Brazil, single and Cristie's😽 pet human 😁.<br>
-Passionate about innovation and technology, <br>
-🎮 Gamer, 🖖 Geek and amateur movie critic on Netflix🍿.
 <br>
-Attending university of Internet Systems at FIAP. 
-<p align="left"> 
+Paulista, 36 anos, 🎮 Gamer, 🖖 Geek ,critico amador de filmes🎞 na Netflix 🍿. E o humano de estimação da Cristie😸.
+<br>
+Apaixonado por inovação e tecnologias que transformam o mundo. 
+Cursando graduação em SISTEMAS PARA INTERNET na FIAP.
+Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga Android nos Bootcamps Santander Developer Mobile e Banco Inter Developer Mobile.
 
+#KotlinDeveloper #AndroidDeveloper  
 </p>
 <br>
 <br>
