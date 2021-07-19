@@ -1,26 +1,17 @@
-
 ### Hi 👋 I'm Jeff, Welcome to my profile!
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Ti Express
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Digital Inovation One
-- 😄 Pronouns: ...
--->
+![image](https://user-images.githubusercontent.com/10172471/126145323-69e55029-d649-4d5d-b6d1-f1494c6367b7.png)
 
 <p align="left"> 
 I´m 36 years old from São Paulo-Brazil, single and Cristie's😽 pet human 😁.
 <br>
-Passionate about innovation and technology, 🎮 Gamer, 🖖 Geek and amateur movie critic on Netflix🍿.
+Passionate about innovation and technology, <br>
+🎮 Gamer, 🖖 Geek and amateur movie critic on Netflix🍿.
 <br>
-Attending university of Internet Systems at FIAP.
+Attending university of Internet Systems at FIAP. 
 </p>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   💬 Ask me about 
@@ -32,12 +23,7 @@ Attending university of Internet Systems at FIAP.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </strong>
 </p>
-  <br>
-
-[![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
-
-  <br>
-
+ 
 <p align="left">
   🛠 Tools i use<br><strong>
   
@@ -47,8 +33,7 @@ Attending university of Internet Systems at FIAP.
 
 </strong>
 </p>
-  <br>
-
+ 
 <p align="left">
 📫 How to reach me
 </p>
@@ -61,8 +46,9 @@ Attending university of Internet Systems at FIAP.
 
 </p>  
 
-
 ## Projetos Recentes
+
+[![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
 
 Projeto      |[Calculadora IMC](https://github.com/jefersonrgomes/Android_Kotlin-CalculadoraIMC-SantanderBootcamp2021)|[Cartão de Negocios compartilhavel](https://github.com/jefersonrgomes/Android_Kotlin-BusinessCard-BANCOINTER_Bootcamp_2021)
 :---|:---:|:---:
@@ -70,7 +56,5 @@ Bootcamp     |[SANTANDER MOBILE DEVELOPER 2021](https://digitalinnovation.one/bo
 Demonstração |<img src="https://user-images.githubusercontent.com/10172471/125567886-256bed62-350d-408e-a0d2-2113866579f8.gif" height="450px">|<img src="https://user-images.githubusercontent.com/10172471/126137221-79cac4b2-d737-46c6-b33a-4d89e7ef34f3.gif"  height="450px">
 
 #
-
-![hd-wallpaper-of-cool-android-backpack-wallpaper-for-desktop-tablet-or-laptop-tablet-1489786096](https://user-images.githubusercontent.com/10172471/126057616-27bdaae1-b534-4f78-ad06-18c54b2602eb.jpg)
 
 
