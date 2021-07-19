@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300px">
 <br>
-Paulista, 36 anos, 🎮 Gamer, 🖖 Geek ,critico amador de filmes🎞 na Netflix 🍿. E o humano de estimação da Cristie😸.
-<br>
-Apaixonado por inovação e tecnologias que transformam o mundo. 
-Cursando graduação em SISTEMAS PARA INTERNET na FIAP.
+Paulista, 36 anos, 🎮 Gamer, 🖖 Geek ,critico amador de filmes🎞 na Netflix 🍿. E o humano de estimação da Cristie😸.<br><br>
+
+Apaixonado por inovação e tecnologias que transformam o mundo. <br>
+Cursando graduação em SISTEMAS PARA INTERNET na FIAP.<br><br>
+
 Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga Android nos Bootcamps Santander Developer Mobile e Banco Inter Developer Mobile.
+<br><br>
 
 #KotlinDeveloper #AndroidDeveloper  
 </p>
-<br>
-<br>
 
 #
 
