@@ -65,10 +65,10 @@ Apesar de ja ter um conhecimento em desenvolvimento Web:<br>
 
 [![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
 
-💼 PROJETO      |[AndroidKotlin-CalculadoraIMC-SantanderBootcamp2021](https://github.com/jefersonrgomes/Android_Kotlin-CalculadoraIMC-SantanderBootcamp2021)|[AndroidKotlin-BusinessCard-InterBootcamp2021](https://github.com/jefersonrgomes/Android_Kotlin-BusinessCard-BANCOINTER_Bootcamp_2021)
-:---|:---:|:---:
-🚀 BOOTCAMP     |[SANTANDER MOBILE DEVELOPER 2021](https://digitalinnovation.one/bootcamps/santander-mobile-developer) |[INTER ANDROID DEVELOPER 2021](https://digitalinnovation.one/bootcamps/inter-android-developer?utm_source=lp-orbi-techboost&utm_medium=organic&utm_campaign=inter-android-developer)
-💻 DEMO |<img src="https://user-images.githubusercontent.com/10172471/125567886-256bed62-350d-408e-a0d2-2113866579f8.gif" height="450px">|<img src="https://user-images.githubusercontent.com/10172471/126137221-79cac4b2-d737-46c6-b33a-4d89e7ef34f3.gif"  height="450px">
+PROJETO      |[AndroidKotlin-CalculadoraIMC-SantanderBootcamp2021](https://github.com/jefersonrgomes/Android_Kotlin-CalculadoraIMC-SantanderBootcamp2021)| 💼 |[AndroidKotlin-BusinessCard-InterBootcamp2021](https://github.com/jefersonrgomes/Android_Kotlin-BusinessCard-BANCOINTER_Bootcamp_2021)
+:---|:---:|:---:|:---:|
+BOOTCAMP     |[SANTANDER MOBILE DEVELOPER 2021](https://digitalinnovation.one/bootcamps/santander-mobile-developer) | 🚀 |[INTER ANDROID DEVELOPER 2021](https://digitalinnovation.one/bootcamps/inter-android-developer?utm_source=lp-orbi-techboost&utm_medium=organic&utm_campaign=inter-android-developer)
+PREVIEW |<img src="https://user-images.githubusercontent.com/10172471/125567886-256bed62-350d-408e-a0d2-2113866579f8.gif" height="450px">| 💻 |<img src="https://user-images.githubusercontent.com/10172471/126137221-79cac4b2-d737-46c6-b33a-4d89e7ef34f3.gif"  height="450px">
 
 #
 
