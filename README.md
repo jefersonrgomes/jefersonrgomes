@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300px">
 <br>
-Paulista, 36 anos, 🎮 Gamer, 🖖 Geek ,critico amador de filmes🎞 da Netflix 🍿. <br>
-E o humano de estimação da Cristie😸.<br><br>
+Paulista, 36 anos, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿. <br>
+O humano de estimação da Cristie 😸.<br><br>
   
 Apaixonado por inovação e tecnologias que transformam o mundo. <br>
 Cursando graduação em [SISTEMAS PARA INTERNET na FIAP](https://www.fiap.com.br/graduacao/tecnologo/sistemas-para-internet/?gclid=Cj0KCQjw6NmHBhD2ARIsAI3hrM3aJH9HZjWwKgLyyndVQuW0zXOu38e-tnpCHlt76PrndNmoOfO6ruIaAk7NEALw_wcB).<br><br>
