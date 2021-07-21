@@ -5,11 +5,12 @@
 <br>
 Paulista, 36 anos, 🎮 Gamer, 🖖 Geek ,critico amador de filmes🎞 da Netflix 🍿. <br>
 E o humano de estimação da Cristie😸.<br><br>
-
+  
 Apaixonado por inovação e tecnologias que transformam o mundo. <br>
-Cursando graduação em SISTEMAS PARA INTERNET na FIAP.<br><br>
+Cursando graduação em [SISTEMAS PARA INTERNET na FIAP](https://www.fiap.com.br/graduacao/tecnologo/sistemas-para-internet/?gclid=Cj0KCQjw6NmHBhD2ARIsAI3hrM3aJH9HZjWwKgLyyndVQuW0zXOu38e-tnpCHlt76PrndNmoOfO6ruIaAk7NEALw_wcB).<br><br>
 
-Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga Android nos Bootcamps Santander Developer Mobile e Banco Inter Developer Mobile.
+  
+Trilheiro de Bootcamps na [Digital Inovation One](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements), atualmente vivendo a Saga Android nos Bootcamps [SANTANDER MOBILE DEVELOPER 2021](https://digitalinnovation.one/bootcamps/santander-mobile-developer) e [INTER ANDROID DEVELOPER 2021](https://digitalinnovation.one/bootcamps/inter-android-developer?utm_source=lp-orbi-techboost&utm_medium=organic&utm_campaign=inter-android-developer).
 <br><br>
 
 #KotlinDeveloper #AndroidDeveloper  
@@ -17,29 +18,32 @@ Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga A
 
 #
 
+### 💬 Vamos falar sobre ...<br>
+
 <p align="left">
-  💬 Vamos falar sobre -> 
-  <br>
-<strong>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=purple" />    
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</strong>
+  
+Apesar de ja ter um conhecimento em desenvolvimento Web:<br>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br><br>
+💻 Atualmente estou mais focado nas linguagens e frameworks abordados nos Bootcamps 🚀 em andamento.<br>
+📲 Voltadas para desenvolvimento Mobile Android Nativo com Java e Kotlin, e testes de Q.A
+  <br><br>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=purple" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<br><br>
+  
 </p>
  
 <p align="left">
-  🛠 Ferramentas que eu uso no dia a dia-><br><strong>
+  🛠 Ferramentas que eu uso no dia a dia 
+  <br><br><strong>
   
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-
-</strong>
 </p>
  
 <p align="left">
-📫 Como entrar em contato! ->
+📫 Como entrar em contato
 </p>
   <a href="https://www.linkedin.com/in/jefersonribeirogomes" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jefersonribeirogomes/" /></a> 
@@ -51,6 +55,7 @@ Trilheiro de Bootcamps na DIO-Digital Inovation One, atualmente vivendo a Saga A
 </p>  
 
 ## Projetos Recentes
+
 [![jefersonrgomes](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jefersonrgomes/)
 
 Projeto      |[Calculadora IMC](https://github.com/jefersonrgomes/Android_Kotlin-CalculadoraIMC-SantanderBootcamp2021)|[Cartão de Negocios compartilhavel](https://github.com/jefersonrgomes/Android_Kotlin-BusinessCard-BANCOINTER_Bootcamp_2021)
