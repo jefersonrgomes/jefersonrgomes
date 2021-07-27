@@ -13,13 +13,13 @@ Cursando graduação em [SISTEMAS PARA INTERNET na FIAP](https://www.fiap.com.br
 Trilheiro de Bootcamps na [Digital Inovation One](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements), vivendo a SAGA ANDROID KOTLIN nos Bootcamps<br>
 [SANTANDER MOBILE DEVELOPER 2021](https://digitalinnovation.one/bootcamps/santander-mobile-developer) e [INTER ANDROID DEVELOPER 2021](https://digitalinnovation.one/bootcamps/inter-android-developer?utm_source=lp-orbi-techboost&utm_medium=organic&utm_campaign=inter-android-developer).
 
-<img src="https://user-images.githubusercontent.com/10172471/127077507-ffaaa793-a5c1-48aa-90a6-db432ad82191.gif" height="125px">|<img src="https://user-images.githubusercontent.com/10172471/126437209-13d83b1f-cb74-42f5-8943-0d4391af23ef.png" height="100px">|<img src="https://user-images.githubusercontent.com/10172471/126436996-095e9b17-c50f-4db1-8fae-482a99195492.png" height="100px">
+<img src="https://user-images.githubusercontent.com/10172471/127077507-ffaaa793-a5c1-48aa-90a6-db432ad82191.gif" width="250px">|<img src="https://user-images.githubusercontent.com/10172471/126437209-13d83b1f-cb74-42f5-8943-0d4391af23ef.png" height="150px">|<img src="https://user-images.githubusercontent.com/10172471/126436996-095e9b17-c50f-4db1-8fae-482a99195492.png" height="150px">
 -|-|-
 
 E aprendendo JAVA e QUALITY ASSURANCE nos Bootcamps<br>
 [EVERIS NEW TALENTS JAVA 2021](https://digitalinnovation.one/bootcamps/everis-new-talents-java) e [EVERIS QUALITY ASSURANCE BEGINNER V2 2021](https://digitalinnovation.one/bootcamps/everis-quality-assurance-beginner-2?fbclid=IwAR2OZD-HuT6CHdAfUlhFoGYXCf_ynPNT0hZ9-4HcIzdmX2m0qaFS5V2bCBw).
   
-<img src="https://user-images.githubusercontent.com/10172471/126445873-bc85b8e1-3e96-4e1e-8e65-bffb7de7c09b.gif" height="125px">|<img src="https://user-images.githubusercontent.com/10172471/126441816-0e890206-224a-47ec-8cdd-28881fa024c8.png" height="100px">|<img src="https://user-images.githubusercontent.com/10172471/126435577-03d7f5b9-4f02-4a2b-8f2d-6de2abc0753d.JPG" alt="Bootcamp Everis Quality Assurance Beginner v2 2021" height="100px">
+<img src="https://user-images.githubusercontent.com/10172471/126445873-bc85b8e1-3e96-4e1e-8e65-bffb7de7c09b.gif" width="250px">|<img src="https://user-images.githubusercontent.com/10172471/126441816-0e890206-224a-47ec-8cdd-28881fa024c8.png" height="150px">|<img src="https://user-images.githubusercontent.com/10172471/126435577-03d7f5b9-4f02-4a2b-8f2d-6de2abc0753d.JPG" alt="Bootcamp Everis Quality Assurance Beginner v2 2021" height="150px">
 -|-|-
 </p>
 
