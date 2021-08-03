@@ -10,26 +10,24 @@ Apaixonado por inovação e tecnologias que transformam o mundo.<br>
 
 <div>
   <a href="https://beacons.ai/jefersonrgomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeff-JavaScript" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127977895-20abcc8e-57b3-465c-a204-1bb2c17f92fc.png">
-  <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jeff-Intellij" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
-  <img align="center" alt="Jeff-Java" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127978149-e543cc39-b8d0-4726-bf69-eabcd11b742d.png">  
-  <img align="center" alt="Jeff-Kotlin" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png">  
-</div>
-  
+  <img align="center" alt="Jeff-HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeff-CSS3"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jeff-JavaScript ECS6"  width="40" src="https://user-images.githubusercontent.com/10172471/127977895-20abcc8e-57b3-465c-a204-1bb2c17f92fc.png">
+  <img align="center" alt="Jeff-React"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |  
+   <img align="center" alt="Jeff-Kotlin" width="40" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png">  
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Jeff-Android" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
-  <img align="center" alt="Jeff-Intellij" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
- </div>  
+ <img align="center" alt="Jeff-Java 11"  width="40" src="https://user-images.githubusercontent.com/10172471/127978149-e543cc39-b8d0-4726-bf69-eabcd11b742d.png">  
+   <img align="center" alt="Jeff-Spring" width="40" src="https://user-images.githubusercontent.com/10172471/127978752-ab6d0848-8fae-40fc-bc5a-7139651b264e.png">  
+ 
+  <img align="center" alt="Jeff-Docker"  width="40" src="https://user-images.githubusercontent.com/10172471/127978513-8414a9b1-a73f-479e-9cfe-3d22db271c53.png">  
+| <img align="center" alt="Jeff-Intellij" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
+  <img align="center" alt="Jeff-Android" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
+ </div>
 
 # Portifolio
 
