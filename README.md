@@ -1,15 +1,17 @@
-### Olá 👋 sou o Jeff, Seja bem vindo ao meu Portifolio!
+### Olá 👋 sou o Jeff, Seja bem vindo ao meu Github!
 #
  
-- 🔭 Paulista, 36 anos, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿. <br>
-O humano de estimação da Cristie 😸.<br> 
-Apaixonado por inovação e tecnologias que transformam o mundo.<br>
-- 🌱 Cursando graduação em [SISTEMAS PARA INTERNET na FIAP](https://www.fiap.com.br/graduacao/tecnologo/sistemas-para-internet/?gclid=Cj0KCQjw6NmHBhD2ARIsAI3hrM3aJH9HZjWwKgLyyndVQuW0zXOu38e-tnpCHlt76PrndNmoOfO6ruIaAk7NEALw_wcB).<br>
-- 🚀 Trilheiro de Bootcamps na [Digital Inovation One](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements), 
+- 🔭  Paulista, 36 anos | 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿 | Apaixonado por inovação e tecnologias que transformam o mundo.<br>
+- 🌱  Cursando graduação em [SISTEMAS PARA INTERNET na FIAP](https://www.fiap.com.br/graduacao/tecnologo/sistemas-para-internet/?gclid=Cj0KCQjw6NmHBhD2ARIsAI3hrM3aJH9HZjWwKgLyyndVQuW0zXOu38e-tnpCHlt76PrndNmoOfO6ruIaAk7NEALw_wcB).<br>
+- 🧗 Trilheiro de Bootcamps na [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements) 
+
+<div  style="display: inline_block">
+<a href="https://instagram.com/jefersonrgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/jefersonrgomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://discord.gg/jeferson.rgomes#5396" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
+
 #
 
-
-<div>
+<div style="display: inline_block">
   <a href="https://beacons.ai/jefersonrgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dark"/>
