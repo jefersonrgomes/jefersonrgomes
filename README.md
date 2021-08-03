@@ -5,32 +5,33 @@
 - 🌱  Cursando graduação em [SISTEMAS PARA INTERNET na FIAP](https://www.fiap.com.br/graduacao/tecnologo/sistemas-para-internet/?gclid=Cj0KCQjw6NmHBhD2ARIsAI3hrM3aJH9HZjWwKgLyyndVQuW0zXOu38e-tnpCHlt76PrndNmoOfO6ruIaAk7NEALw_wcB).<br>
 - 🧗 Trilheiro de Bootcamps na [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements) 
 
-<div  style="display: inline_block">
-<a href="https://instagram.com/jefersonrgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/jefersonribeirogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://discord.gg/jeferson.rgomes#5396" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-
 #
 
 <div style="display: inline_block">
   <a href="https://beacons.ai/jefersonrgomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dark"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-CSS3"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeff-JavaScript ECS6"  width="40" src="https://user-images.githubusercontent.com/10172471/127977895-20abcc8e-57b3-465c-a204-1bb2c17f92fc.png">
-  <img align="center" alt="Jeff-React"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |  
-   <img align="center" alt="Jeff-Kotlin" width="40" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png">  
-
- <img align="center" alt="Jeff-Java 11"  width="40" src="https://user-images.githubusercontent.com/10172471/127978149-e543cc39-b8d0-4726-bf69-eabcd11b742d.png">  
-   <img align="center" alt="Jeff-Spring" width="40" src="https://user-images.githubusercontent.com/10172471/127978752-ab6d0848-8fae-40fc-bc5a-7139651b264e.png">  
  
-  <img align="center" alt="Jeff-Docker"  width="40" src="https://user-images.githubusercontent.com/10172471/127978513-8414a9b1-a73f-479e-9cfe-3d22db271c53.png">  
-| <img align="center" alt="Jeff-Intellij" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
-  <img align="center" alt="Jeff-Android" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jeff-HTML5" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeff-CSS3"  width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jeff-JavaScript ECS6"  width="40" src="https://user-images.githubusercontent.com/10172471/127977895-20abcc8e-57b3-465c-a204-1bb2c17f92fc.png">
+  <img align="center" alt="Jeff-React"  width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |  
+   <img align="center" alt="Jeff-Kotlin" width="35" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png">  
+
+ <img align="center" alt="Jeff-Java 11"  width="35" src="https://user-images.githubusercontent.com/10172471/127978149-e543cc39-b8d0-4726-bf69-eabcd11b742d.png">  
+   <img align="center" alt="Jeff-Spring" width="35" src="https://user-images.githubusercontent.com/10172471/127978752-ab6d0848-8fae-40fc-bc5a-7139651b264e.png">  
+ 
+  <img align="center" alt="Jeff-Docker"  width="35" src="https://user-images.githubusercontent.com/10172471/127978513-8414a9b1-a73f-479e-9cfe-3d22db271c53.png">  
+| <img align="center" alt="Jeff-Intellij" width="35"  src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
+  <img align="center" alt="Jeff-Android" width="35"  src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
  </div>
+
+#
+
+ <div  style="display: inline_block">
+<a href="https://instagram.com/jefersonrgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/jefersonribeirogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://discord.gg/jeferson.rgomes#5396" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div> 
  
 #
  
