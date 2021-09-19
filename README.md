@@ -43,14 +43,9 @@
 <span>&nbsp;&nbsp;</span> 
 
   <img align="center" alt="Spring" height="40"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-  <img align="center" alt="VSCode" height="40"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
- 
- 
+<span>&nbsp;&nbsp;</span>  
  
 #
-
  
 <br>
 <div  style="display: inline_block">
