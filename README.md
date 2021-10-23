@@ -1,8 +1,21 @@
-![image](https://user-images.githubusercontent.com/10172471/133912350-6d9f9e85-c775-41bd-a562-49606fd22d0a.png)
+# COMING SOON
 
-### Olá 👋 sou o Jeff, Seja bem vindo ao meu Github!
+### we are in the works to bring incredible things to you
+
+![image](https://user-images.githubusercontent.com/10172471/138540263-2363301d-be73-476c-b291-0245d506e355.png)
+
+## Organizing repositores and projects
+
+![image](https://user-images.githubusercontent.com/10172471/138540330-44b46e9a-5336-40b2-a39b-584c3a471ba1.png)
+
+## Implementing deploy links for online and real-time visualization of everything that is being done here, And More!
+
+![image](https://user-images.githubusercontent.com/10172471/138540459-a931e914-f06e-4e26-9c91-33b89fe56913.png)
+
+## So, Until everything is ready, you can view below a summary of the old profile
 #
- 
+Hi I´m Jeff!
+
 - 🔭  Paulista, 36 anos | 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿 | Apaixonado por inovação e tecnologias que transformam o mundo.<br>
 - 🌱  Cursando graduação em [SISTEMAS PARA INTERNET na FIAP](https://www.fiap.com.br/graduacao/tecnologo/sistemas-para-internet/?gclid=Cj0KCQjw6NmHBhD2ARIsAI3hrM3aJH9HZjWwKgLyyndVQuW0zXOu38e-tnpCHlt76PrndNmoOfO6ruIaAk7NEALw_wcB).<br>
 - 🧗 Trilheiro de Bootcamps na [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements) 
@@ -56,7 +69,3 @@
  
 ![Snake animation](https://github.com/jefersonrgomes/jefersonrgomes/blob/output/github-contribution-grid-snake.svg)
  
-PROJETO      |[AndroidKotlin-CalculadoraIMC-SantanderBootcamp2021](https://github.com/jefersonrgomes/Android_Kotlin-CalculadoraIMC-SantanderBootcamp2021)| <img align="center" alt="IDE-IntellijIDEA" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png"> |[AndroidKotlin-BusinessCard-InterBootcamp2021](https://github.com/jefersonrgomes/Android_Kotlin-BusinessCard-BANCOINTER_Bootcamp_2021)
-:---|:---:|:---:|:---:|
-BOOTCAMP     |[SANTANDER MOBILE DEVELOPER 2021](https://digitalinnovation.one/bootcamps/santander-mobile-developer) | <img align="center" alt="Linguagem Kotlin" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png"> |[INTER ANDROID DEVELOPER 2021](https://digitalinnovation.one/bootcamps/inter-android-developer?utm_source=lp-orbi-techboost&utm_medium=organic&utm_campaign=inter-android-developer)
-PREVIEW |<img src="https://user-images.githubusercontent.com/10172471/125567886-256bed62-350d-408e-a0d2-2113866579f8.gif" height="450px">| <img align="center" alt="Jeff-Android" height="30" width="40" src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">|<img src="https://user-images.githubusercontent.com/10172471/126137221-79cac4b2-d737-46c6-b33a-4d89e7ef34f3.gif"  height="450px">
