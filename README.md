@@ -1,18 +1,3 @@
-# COMING SOON
-
-### we are in the works to bring incredible things to you
-
-![image](https://user-images.githubusercontent.com/10172471/138540263-2363301d-be73-476c-b291-0245d506e355.png)
-
-## Organizing repositores and projects
-
-![image](https://user-images.githubusercontent.com/10172471/138540330-44b46e9a-5336-40b2-a39b-584c3a471ba1.png)
-
-## Implementing deploy links for online and real-time visualization of everything that is being done here, And More!
-
-![image](https://user-images.githubusercontent.com/10172471/138540459-a931e914-f06e-4e26-9c91-33b89fe56913.png)
-
-## So, Until everything is ready, you can view below a summary of the old profile
 #
 Hi I´m Jeff!
 
