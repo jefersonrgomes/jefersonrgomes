@@ -56,8 +56,9 @@ Hi I´m Jeff!
  
 #
   
-Recriando a interface do Netflix com REACTJS
-VERSEL ONLINE APP IN: https://netflix-clone-react-js-taupe.vercel.app/
+## Recriando a interface do Netflix com REACTJS
+
+  VERSEL ONLINE APP IN: https://netflix-clone-react-js-taupe.vercel.app/
   
 ![giftNetFake](https://user-images.githubusercontent.com/10172471/140011966-6c6c9c49-d885-4e7d-8f19-a067dee25ca4.gif)
 
