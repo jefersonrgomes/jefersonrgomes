@@ -3,22 +3,22 @@
 # Desenvolvedor Web Front-End Jr 
 <div style="display: inline_block"><br> 
   
-<img align="center" alt="React" height="30"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="React" height="25"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <span>&nbsp;&nbsp;</span> 
     
-<img align="center" alt="MaterialDesignUI" height="30"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<img align="center" alt="MaterialDesignUI" height="25"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
   
-<img align="center" alt="JavaScript" height="30"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="JavaScript" height="25"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <span>&nbsp;&nbsp;</span> 
   
-<img align="center" alt="TypeScript" height="30"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="TypeScript" height="25"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
   
-<img align="center" alt="NodeJs" height="30"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img align="center" alt="NodeJs" height="25"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
   
-<img align="center" alt="ExpressJs" height="30"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img align="center" alt="ExpressJs" height="25"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
 </div>
 
@@ -34,28 +34,28 @@ Hi I´m Jeff!
 
 <div style="display: inline_block">
   <a href="https://beacons.ai/jefersonrgomes">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br> 
   
  ## Dev Skills
  
-<img align="center" alt="HTML5" width="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <span>&nbsp;&nbsp;</span>
-<img align="center" alt="CSS3"  width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="CSS3" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <span>&nbsp;&nbsp;</span>  
-<img align="center" alt="JavaScript ECS6"  width="40" src="https://user-images.githubusercontent.com/10172471/127977895-20abcc8e-57b3-465c-a204-1bb2c17f92fc.png">
+<img align="center" alt="JavaScript ECS6"  height="25" src="https://user-images.githubusercontent.com/10172471/127977895-20abcc8e-57b3-465c-a204-1bb2c17f92fc.png">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Jeff-React"  width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+<img align="center" alt="Jeff-React"  height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 <span>&nbsp;&nbsp;</span>
-<img align="center" alt="Jeff-Kotlin" width="35" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png">
+<img align="center" alt="Jeff-Kotlin" height="25" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Java"  height="40" src="https://user-images.githubusercontent.com/10172471/127978149-e543cc39-b8d0-4726-bf69-eabcd11b742d.png">
+<img align="center" alt="Java"  height="25" src="https://user-images.githubusercontent.com/10172471/127978149-e543cc39-b8d0-4726-bf69-eabcd11b742d.png">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Intellij" width="35"  src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
+<img align="center" alt="Intellij" height="25"  src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
 <span>&nbsp;&nbsp;</span>  
-<img align="center" alt="Android" width="35"  src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
+<img align="center" alt="Android" height="25"  src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
 </div>
   
 #
