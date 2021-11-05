@@ -13,7 +13,31 @@ Hi I´m Jeff!
 </div>
  
 <div style="display: inline_block"><br> 
-<img align="center" alt="TML5" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+
+  <img align="center" alt="React" height="40"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<span>&nbsp;&nbsp;</span> 
+    
+  <img align="center" alt="MaterialDesignUI" height="40"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+
+  
+    <img align="center" alt="JavaScript" height="40"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<span>&nbsp;&nbsp;</span> 
+  
+  <img align="center" alt="TypeScript" height="40"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+ <img align="center" alt="NodeJs" height="40"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+   <img align="center" alt="ExpressJs" height="40"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+
+ #
+<br>
+  
+<img align="center" alt="HTML5" width="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <span>&nbsp;&nbsp;</span>
 <img align="center" alt="CSS3"  width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <span>&nbsp;&nbsp;</span>  
@@ -29,20 +53,7 @@ Hi I´m Jeff!
 <span>&nbsp;&nbsp;</span>  
 <img align="center" alt="Android" width="35"  src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
 </div>
- 
-<br>
- <img align="center" alt="NodeJs" height="40"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
- 
- <img align="center" alt="TypeScript"  height="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<span>&nbsp;&nbsp;</span>  
- 
- <img align="center" alt="Angular" height="40"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-
-  <img align="center" alt="Spring" height="40"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<span>&nbsp;&nbsp;</span>  
- 
+  
 #
  
 <br>
