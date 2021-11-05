@@ -43,19 +43,43 @@ Hi I´m Jeff!
  
 <img align="center" alt="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <span>&nbsp;&nbsp;</span>
-<img align="center" alt="CSS3" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="CSS3" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <span>&nbsp;&nbsp;</span>  
-<img align="center" alt="JavaScript ECS6"  height="25" src="https://user-images.githubusercontent.com/10172471/127977895-20abcc8e-57b3-465c-a204-1bb2c17f92fc.png">
-<span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Jeff-React"  height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+<img align="center" alt="JavaScript" height="25"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<span>&nbsp;&nbsp;</span>   
+<img align="center" alt="Bootstrap "  height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <span>&nbsp;&nbsp;</span>
-<img align="center" alt="Jeff-Kotlin" height="25" src="https://user-images.githubusercontent.com/10172471/127977304-6bb2f8e6-e8b3-458b-bd64-c4e78fe3c598.png">
+<img align="center" alt="MUI"  height="25" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Java"  height="25" src="https://user-images.githubusercontent.com/10172471/127978149-e543cc39-b8d0-4726-bf69-eabcd11b742d.png">
+    
+<img align="center" alt="React" height="25"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Intellij" height="25"  src="https://user-images.githubusercontent.com/10172471/127976930-d440c988-df9f-4789-8cca-45f56ae176f8.png">
+  
+<img align="center" alt="TypeScript" height="25"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+<img align="center" alt="NodeJs" height="25"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+<img align="center" alt="ExpressJs" height="25"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <span>&nbsp;&nbsp;</span>  
-<img align="center" alt="Android" height="25"  src="https://user-images.githubusercontent.com/10172471/127976200-c86152e3-018c-434a-a47b-17797de43ae2.png">
+  
+<img align="center" alt="Next"  height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<span>&nbsp;&nbsp;</span>
+  
+<img align="center" alt="Java"  height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+<img align="center" alt="Kotlin"  height="25" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+
+<img align="center" alt="Angular"  height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<span>&nbsp;&nbsp;</span>
+
+<img align="center" alt="Redux"  height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+<span>&nbsp;&nbsp;</span>
+<img align="center" alt="Spring"  height="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<span>&nbsp;&nbsp;</span>
 </div>
   
 #
