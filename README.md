@@ -1,4 +1,29 @@
 #
+
+# Desenvolvedor Web Front-End Jr 
+<div style="display: inline_block"><br> 
+  
+<img align="center" alt="React" height="30"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<span>&nbsp;&nbsp;</span> 
+    
+<img align="center" alt="MaterialDesignUI" height="30"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+<img align="center" alt="JavaScript" height="30"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<span>&nbsp;&nbsp;</span> 
+  
+<img align="center" alt="TypeScript" height="30"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+<img align="center" alt="NodeJs" height="30"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+  
+<img align="center" alt="ExpressJs" height="30"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
+</div>
+
+#
+
 Hi I´m Jeff!
 
 - 🔭  Paulista, 36 anos | 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿 | Apaixonado por inovação e tecnologias que transformam o mundo.<br>
@@ -9,34 +34,13 @@ Hi I´m Jeff!
 
 <div style="display: inline_block">
   <a href="https://beacons.ai/jefersonrgomes">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br> 
-
-
-  <img align="center" alt="React" height="40"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<span>&nbsp;&nbsp;</span> 
-    
-  <img align="center" alt="MaterialDesignUI" height="40"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-
   
-    <img align="center" alt="JavaScript" height="40"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<span>&nbsp;&nbsp;</span> 
-  
-  <img align="center" alt="TypeScript" height="40"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-  
- <img align="center" alt="NodeJs" height="40"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-  
-   <img align="center" alt="ExpressJs" height="40"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-
- #
-<br>
-  
+ ## Dev Skills
+ 
 <img align="center" alt="HTML5" width="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <span>&nbsp;&nbsp;</span>
 <img align="center" alt="CSS3"  width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -65,7 +69,7 @@ Hi I´m Jeff!
  
 ![Snake animation](https://github.com/jefersonrgomes/jefersonrgomes/blob/output/github-contribution-grid-snake.svg)
  
-#
+# Projetos Recentes
   
 ## Recriando a interface do Netflix com REACTJS
 
