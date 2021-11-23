@@ -1,25 +1,13 @@
-#
-
-# Desenvolvedor Web Front-End Jr 
+![Black Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/10172471/142960566-b09eaa3a-8e77-4b74-9f25-957f4ae4bfc1.png)
+# Developer Front-End Jr 
 <div style="display: inline_block"><br> 
   
 <img align="center" alt="React" height="25"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <span>&nbsp;&nbsp;</span> 
     
-<img align="center" alt="MaterialDesignUI" height="25"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-  
-<img align="center" alt="JavaScript" height="25"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<span>&nbsp;&nbsp;</span> 
-  
-<img align="center" alt="TypeScript" height="25"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
-  
 <img align="center" alt="NodeJs" height="25"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
   
-<img align="center" alt="ExpressJs" height="25"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
 </div>
 
 #
