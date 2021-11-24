@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/10172471/142960566-b09eaa3a-8e77-4b74-9f25-957f4ae4bfc1.png)
+![Black Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/10172471/143295780-1eabfd1f-2e1b-47c9-99a5-da95453d5582.png)
 # Developer Front-End Jr 
 <div style="display: inline_block"><br> 
   
