@@ -1,5 +1,4 @@
-![Black Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/10172471/143295780-1eabfd1f-2e1b-47c9-99a5-da95453d5582.png)
-# Developer Front-End Jr 
+# Developer Fullstack Jr 
 <div style="display: inline_block"><br> 
   
 <img align="center" alt="React" height="25"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
