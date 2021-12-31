@@ -74,16 +74,18 @@
 <span>&nbsp;&nbsp;</span>   
 </div>
 
-# Projetos Recentes
+## Projetos Recentes
   
 **Recriando a interface do Netflix com REACTJS**
 
 <a href="https://github.com/jefersonrgomes/NetflixCloneReactJs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a>   
+ 
+![image](https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png)
   
 VERSEL ONLINE APP IN: https://netflix-clone-react-js-taupe.vercel.app/
 
-#
+## Alimentando o GitSnake
 
 ![Snake animation](https://github.com/jefersonrgomes/jefersonrgomes/blob/output/github-contribution-grid-snake.svg)
  
-  
+#  
