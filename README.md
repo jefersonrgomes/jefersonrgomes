@@ -84,6 +84,13 @@
   
 VERSEL ONLINE APP IN: https://netflix-clone-react-js-taupe.vercel.app/
 
+#
+  
+![image](https://user-images.githubusercontent.com/10172471/148016672-4f402b5a-6e7c-469b-981a-d61df48d9536.png)
+
+![image](https://user-images.githubusercontent.com/10172471/148016734-99c716ec-3351-4c3a-afbd-02b0008dc845.png)
+  
+  
 ## Alimentando o GitSnake
 
 ![Snake animation](https://github.com/jefersonrgomes/jefersonrgomes/blob/output/github-contribution-grid-snake.svg)
