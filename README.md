@@ -74,22 +74,38 @@
 <span>&nbsp;&nbsp;</span>   
 </div>
 
-## Projetos Recentes
-  
+# Projetos Recentes
+ 
+<img align="right" alt="Netflix Clone Interface" height="300" src="https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png">
+
 **Recriando a interface do Netflix com REACTJS**
 
-<a href="https://github.com/jefersonrgomes/NetflixCloneReactJs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a>   
- 
-![image](https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png)
-  
-VERSEL ONLINE APP IN: https://netflix-clone-react-js-taupe.vercel.app/
+- [x] Baseado em Arquitetura React
+- [x] Integração com API IMDB utilizando Axios
+- [x] Estilização com Styled-Components e Material Design
 
+<a href="https://github.com/jefersonrgomes/NetflixCloneReactJs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
+  
+<a href="https://netflix-clone-react-js-taupe.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
+<br/> <br/> 
 #
+
+<img align="right" alt="Netflix Clone Interface" height="300" src="https://user-images.githubusercontent.com/10172471/148669428-436e0ead-10bf-4d94-a296-757a90ea423b.png">
+
+**Criando seu jogo de memória estilo Genius**
+
+- [x] Em fase de Refactor para Arquitetura React
+- [x] Estilização com Styled-Components
+
+<a href="https://github.com/jefersonrgomes/dio-genius-game" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
+  
+<a href="https://dio-genius-game.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
+  
+#  
   
 ![image](https://user-images.githubusercontent.com/10172471/148016672-4f402b5a-6e7c-469b-981a-d61df48d9536.png)
 
 ![image](https://user-images.githubusercontent.com/10172471/148016734-99c716ec-3351-4c3a-afbd-02b0008dc845.png)
-  
   
 ## Alimentando o GitSnake
 
