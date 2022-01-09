@@ -90,7 +90,7 @@
 <br/> <br/> 
 #
 
-<img align="right" alt="Netflix Clone Interface" height="300" src="https://user-images.githubusercontent.com/10172471/148669428-436e0ead-10bf-4d94-a296-757a90ea423b.png">
+<img align="right" alt="Netflix Clone Interface" height="300" src="https://user-images.githubusercontent.com/10172471/148670156-fd3b0f78-f6cd-4c9a-90ea-fdf0729d62ad.png">
 
 **Criando seu jogo de memória estilo Genius**
 
