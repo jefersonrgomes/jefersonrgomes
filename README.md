@@ -103,14 +103,30 @@
 <br/> <br/>     
 #  
   
-# React Components Top Styles  
+# React Power Effects Css Components  
   
-<img align="left" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/148016672-4f402b5a-6e7c-469b-981a-d61df48d9536.png">
-<br/> <br/>   
+<img align="left" alt="Components React Style" width="50%" src="https://user-images.githubusercontent.com/10172471/148016672-4f402b5a-6e7c-469b-981a-d61df48d9536.png">
+
+**Botoes Social Media Multiplas Camadas**
+
+- [x] Arquitetura React
+- [x] Estilização com Styled-Components
+
+<a href="https://github.com/jefersonrgomes/my-components-css" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> <a href="https://my-components-css.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
+<br/> <br/>     
+#  
   
 <img align="right" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/148016734-99c716ec-3351-4c3a-afbd-02b0008dc845.png">
-<br/> <br/>   
 
+**Card View Dark Style**
+
+- [x] Arquitetura React
+- [x] Estilização com Styled-Components
+
+<a href="https://github.com/jefersonrgomes/my-components-css" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> <a href="https://my-components-css.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
+<br/> <br/>     
+#  
+  
 ![Snake animation](https://github.com/jefersonrgomes/jefersonrgomes/blob/output/github-contribution-grid-snake.svg)
  
 #  
