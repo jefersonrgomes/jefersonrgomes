@@ -91,7 +91,7 @@
   
 #
     
-<img align="right" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/150661444-6aceee25-0f52-47e7-a001-7e47879748f1.png">
+<img align="right" alt="Prograja executado no IntelijIDEA Terminal" width="40%" src="https://user-images.githubusercontent.com/10172471/150661444-6aceee25-0f52-47e7-a001-7e47879748f1.png">
 
 **Banco Digital em Java P.O.O**
 
