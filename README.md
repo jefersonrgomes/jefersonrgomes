@@ -90,6 +90,20 @@
 <br/> <br/> 
   
 #
+    
+<img align="right" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/150661444-6aceee25-0f52-47e7-a001-7e47879748f1.png">
+
+**Banco Digital em Java P.O.O**
+
+- [x] Java e Orientação a Objeto
+- [x] Associação de Classes em Java
+- [X] Enumeradores e Interfaces em Java
+
+<a href="https://github.com/jefersonrgomes/desafio-dio-banco/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
+  
+<br/> <br/> 
+  
+#
 
 <img align="right" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/148670156-fd3b0f78-f6cd-4c9a-90ea-fdf0729d62ad.png">
 
