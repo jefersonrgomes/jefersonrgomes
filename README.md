@@ -1,6 +1,4 @@
-# Developer Fullstack Jr React | Node | TypeScript
-
-![image](https://user-images.githubusercontent.com/10172471/147827167-a2fcbe57-63ce-476c-a2e9-5348d957d05a.png)
+# DEV JUNIOR React/React-Native | Node/Express | JavaScript-ES6 / Typescript | Android | Kotlin/Java.
 
 <br>
 
