@@ -1,5 +1,17 @@
 # DEV JUNIOR React/React-Native | Node/Express | JavaScript-ES6 / Typescript | Android | Kotlin/Java.
 
+## Olá, sou Jeff!, Seja Bem vindo ao meu Github
+
+<img align="left" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
+
+- 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿<br>
+- 🌱 Formado em Análise e desenvolvimento de Sistemas pela UNINOVE São Paulo e Cursando Especialização em SISTEMAS PARA INTERNET pela FIAP.<br />
+- 💼 Mais de 10 anos de experiência na área de Tech Support/Service Desk e Customer Services. Tendo atuando em grandes empresas do segmento como MICROSOFT, STEFANINI, BTG PACTUAL e outros. <br />
+- 🚀 Trilheiro de Bootcamps na [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements) 
+<br/>
+
+#
+  
 <br>
 
 <div style="display: inline_block" align='center'>
@@ -15,16 +27,6 @@
 </div> 
 
 #
-
-## Olá, sou Jeff!, Seja Bem vindo ao meu Github
-
-<img align="left" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
-
-- 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿<br>
-- 🌱 Formado em Análise e desenvolvimento de Sistemas pela UNINOVE São Paulo e Cursando Especialização em SISTEMAS PARA INTERNET pela FIAP.<br />
-- 💼 Mais de 10 anos de experiência na área de Tech Support/Service Desk e Customer Services. Tendo atuando em grandes empresas do segmento como MICROSOFT, STEFANINI, BTG PACTUAL e outros. <br />
-- 🚀 Trilheiro de Bootcamps na [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements) 
-<br/>
   
 <div style="display: flex"><br> 
 
