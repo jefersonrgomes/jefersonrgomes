@@ -105,12 +105,9 @@
   
 #
 
-<img align="right" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/148670156-fd3b0f78-f6cd-4c9a-90ea-fdf0729d62ad.png">
+<img align="right" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/151708382-d0f5d504-71e0-4096-83ca-cd8e39debb13.png">
 
 **Criando seu jogo de memória estilo Genius**
-
-- [x] Em fase de Refactor para Arquitetura React
-- [x] Estilização com Styled-Components
 
 <a href="https://github.com/jefersonrgomes/dio-genius-game" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
   
