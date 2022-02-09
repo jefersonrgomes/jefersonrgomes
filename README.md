@@ -1,4 +1,4 @@
-# DEV JUNIOR React/React-Native | Node/Express | JavaScript-ES6 / Typescript | Android | Kotlin/Java.
+# DIO Campus Expert | Dev Junior JS-ES6/Typescript | Java/Kotlin | React | Node.
 
 ## Olá, sou Jeff!, Seja Bem vindo ao meu Github
 
