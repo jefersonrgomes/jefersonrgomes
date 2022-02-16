@@ -1,6 +1,6 @@
-# Embaixador Tech DIO Campus Expert
+# DIO Campus Expert
 ![image](https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png)
-# Dev Junior JS-ES6/Typescript | Java/Kotlin | React | Node.
+# Desenvolvedor Junior Java | Javascript | React | Node.
 
 ## Olá, sou Jeff!, Seja Bem vindo ao meu Github
 
