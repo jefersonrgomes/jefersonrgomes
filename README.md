@@ -3,18 +3,21 @@
 # Desenvolvedor Junior Java | Javascript | React | Node.
 
 ## Olá, sou Jeff!, Seja Bem vindo ao meu Github
-
+<br />
+<p align="left"> 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿</p>
+<p align="left"> 🏆 DIO Campus Expert.</p>
 <img align="left" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
 
-- 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿<br>
-- 📰 Desde 2014 atuando na área de TECH SUPPORT. Em projetos para grandes empresas do segmento de Tecnologia como MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.
-Desde 2020 como estudante e BOLSISTA na DIGITAL INNOVATION ONE, tendo realizado cursos e Boocamps de imersão. 
-- 🧪 1 Ano e 5 Meses de experiencia em desenvolvimento de aplicações Web nas Stacks Java, JavaScript, React e NodeJs. <br />
-- 🌱 Atualmente cursando SISTEMAS PARA INTERNET pela ANHEMBI MORUMBI SP.
-E em fase de transição de carreira para area de Desenvolvimento de Software..<br />
-- 🏆 DIO Campus Expert na [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/users/jeferson_rgomes?tab=achievements) 
-<br/>
-
+<div>
+<br />
+<p align="left"> 📰 Desde 2014 atuando na área de TECH SUPPORT. Em projetos para grandes empresas do segmento de Tecnologia como MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.</p>
+<p align="left"> 📚 Desde 2020 como estudante e BOLSISTA na DIGITAL INNOVATION ONE, tendo realizado cursos e Boocamps de imersão.</p>
+<p align="left"> 🧪 1 Ano e 5 Meses de experiencia em desenvolvimento de aplicações Web nas Stacks Java, JavaScript, React e NodeJs.</p><br /><br />
+<p align="left"> 🌱 Atualmente cursando SISTEMAS PARA INTERNET pela ANHEMBI MORUMBI SP.</p>
+<p align="left"> 🚀 Em fase de transição de carreira para area de Desenvolvimento de Software.<br />
+ </p>
+  </div>
+ 
 #
   
 <br>
