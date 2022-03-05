@@ -55,7 +55,7 @@
 
 <img align="right" alt="Netflix Clone Interface" height="250" src="https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png">
 
-** INTERFACE NETFLIX - REACTJS/API IMDB**
+**INTERFACE NETFLIX - REACTJS/API IMDB**
 
 - [x] Baseado em Arquitetura React
 - [x] Integração com API IMDB utilizando Axios
@@ -67,6 +67,7 @@
 <br/> <br/> 
  </div>
  
+# 
 #
  
 <div align="left" style="display: flex"><br>  
@@ -101,6 +102,7 @@
 <a href="https://dio-genius-game.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
 <br/> <br/> <br/> <br/> 
 </div>
+ 
 #  
 #  
   
