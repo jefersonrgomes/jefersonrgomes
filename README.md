@@ -1,5 +1,4 @@
 # Seja Bem vindo ao meu Github.
-**IT Support Specialist - Tier 2 | Dev Junior Java | Q.A | Javascript | React | Node | DIO Campus Expert.**
 
 <br/>
 <img align="right" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
@@ -12,10 +11,18 @@
  
 #
 
+<div  style="display: inline_block" align='center'>
+<a href="https://instagram.com/jefersonrgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="135" target="_blank"></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="https://www.linkedin.com/in/jefersonribeirogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="135" target="_blank"></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://discord.gg/jeferson.rgomes#5396" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  width="135" target="_blank"></a> 
+</div> 
+
+<br />
+
 <div style="display: inline_block" align='center'>
-<a href="https://lp.digitalinnovation.one/campus-expert">
- <img align="center"  alt="HTML5"  src="https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png">
- </a>
+  <a href="https://beacons.ai/jefersonrgomes">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block" align='center'>
 </div>  
 <div align="center" style="display: flex"><br>  
 <img align="center" alt="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,23 +41,6 @@
 <span>&nbsp;&nbsp;</span> 
 </div>
  
-#
- 
-<br>
-
-<div style="display: inline_block" align='center'>
-  <a href="https://beacons.ai/jefersonrgomes">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jefersonrgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrgomes&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-  
-  <br>
-
-
-<div  style="display: inline_block" align='center'>
-<a href="https://instagram.com/jefersonrgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="135" target="_blank"></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="https://www.linkedin.com/in/jefersonribeirogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="135" target="_blank"></a> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  <a href="https://discord.gg/jeferson.rgomes#5396" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  width="135" target="_blank"></a> 
-</div> 
-
-
 # PORTIFOLIO 
 
 <div align="left" style="display: flex"><br>  
@@ -69,6 +59,11 @@
  </div>
  
 # 
+
+<a href="https://lp.digitalinnovation.one/campus-expert">
+<img align="center"  alt="HTML5"  src="https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png">
+</a>
+ 
 #
  
 <div align="left" style="display: flex"><br>  
