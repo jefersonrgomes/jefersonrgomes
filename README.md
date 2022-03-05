@@ -1,8 +1,8 @@
 # Seja Bem vindo ao meu Github.
 **IT Support Specialist - Tier 2 | Dev Junior Java | Q.A | Javascript | React | Node | DIO Campus Expert.**
 
-<br />
-<img align="left" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
+<br/>
+<img align="right" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
 <div>
 <p align="left"> 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿</p>
 <p align="left"> 📰 Desde 2014 atuando na área de TECH SUPPORT. Em projetos para grandes empresas do segmento de Tecnologia como MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.</p>
