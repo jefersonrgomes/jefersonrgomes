@@ -43,8 +43,8 @@
  
 # PORTIFOLIO 
 
-<div align="left" style="display: flex"><br>  
-<img align="right" alt="Netflix Clone Interface" height="250" src="https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png">
+<div align="left" style="display: flex">  
+<img align="right" alt="Imagem ilustrativa da pagina de projeto Netflix Clone Interface" height="250" src="https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png">
 
 **INTERFACE NETFLIX - REACTJS/API IMDB**
 
@@ -52,19 +52,18 @@
 - [x] Integração com API IMDB utilizando Axios
 - [x] Estilização com Styled-Components e Material Design
 
-<a href="https://github.com/jefersonrgomes/NetflixCloneReactJs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank">
-</a> 
+<a href="https://github.com/jefersonrgomes/NetflixCloneReactJs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
   
 <a href="https://netflix-clone-react-js-taupe.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
 <br/> <br/> 
- </div>
+</div>
  
 # 
 
-<a href="https://lp.digitalinnovation.one/campus-expert">
+<div  style="display: inline_block" align='center'>
 <img align="center"  alt="HTML5"  src="https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png">
-</a>
- 
+</div> 
+  
 #
  
 <div align="left" style="display: flex"><br>  
