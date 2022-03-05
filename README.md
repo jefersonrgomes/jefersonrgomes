@@ -1,18 +1,20 @@
-# DIO Campus Expert
-![image](https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png)
-# IT Support Specialist - Tier 2 | Dev Junior Java | Q.A Java | Javascript | React | Node.
+# Olá, sou Jeferson !, Seja Bem vindo ao meu Github.
+**IT Support Specialist - Tier 2 | Dev Junior Java | Q.A Java | Javascript | React | Node.**
 
-## Olá, sou Jeff!, Seja Bem vindo ao meu Github
 <br />
 <img align="left" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
 <div>
 <p align="left"> 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿</p>
 <p align="left"> 📰 Desde 2014 atuando na área de TECH SUPPORT. Em projetos para grandes empresas do segmento de Tecnologia como MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.</p>
-<p align="left"> 🧪 1 Ano e 7 Meses de EXP Java, JavaScript, React e NodeJs.</p>
+<p align="left"> 🧪 1 Ano e 7 Meses de EXP Q.A, Java, JavaScript, React e NodeJs .</p>
 <p align="left"> 🚀 Cursando SISTEMAS PARA INTERNET pela ANHEMBI MORUMBI SP.</p>
 </div>
  
 #
+
+<div style="display: inline_block" align='center'>
+<img align="center" alt="HTML5"  src="https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png">
+</div>  
   
 <div align="center" style="display: flex"><br>  
 <img align="center" alt="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,14 +23,14 @@
 <span>&nbsp;&nbsp;</span>  
 <img align="center" alt="JavaScript" height="25"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Java"  height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
 <img align="center" alt="React" height="25"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <span>&nbsp;&nbsp;</span>
 <img align="center" alt="NodeJs" height="25"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
 <img align="center" alt="ExpressJs" height="25"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<span>&nbsp;&nbsp;</span>  
+<span>&nbsp;&nbsp;</span> 
+<img align="center" alt="Java"  height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<span>&nbsp;&nbsp;</span> 
 </div>
  
 #
@@ -49,10 +51,8 @@
 
 
 # PORTIFOLIO 
-#
 
 <div align="left" style="display: flex"><br>  
-
 <img align="right" alt="Netflix Clone Interface" height="250" src="https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png">
 
 **INTERFACE NETFLIX - REACTJS/API IMDB**
@@ -71,7 +71,6 @@
 #
  
 <div align="left" style="display: flex"><br>  
- 
 <img align="right" alt="Programa executado no Intelij-IDEA Terminal" height="250" src="https://user-images.githubusercontent.com/10172471/150661444-6aceee25-0f52-47e7-a001-7e47879748f1.png">
 
 **JAVA P.O.O - BANCO DIGITAL**
@@ -88,7 +87,6 @@
 #
 
 <div align="left" style="display: flex"><br>  
-
 <img align="right" alt="Netflix Clone Interface"  height="250" src="https://user-images.githubusercontent.com/10172471/151708382-d0f5d504-71e0-4096-83ca-cd8e39debb13.png">
 
 **JOGO GENIUS - JAVASCRIPT AVANÇADO**
