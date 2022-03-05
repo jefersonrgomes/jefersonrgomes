@@ -52,7 +52,8 @@
 - [x] Integração com API IMDB utilizando Axios
 - [x] Estilização com Styled-Components e Material Design
 
-<a href="https://github.com/jefersonrgomes/NetflixCloneReactJs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
+<a href="https://github.com/jefersonrgomes/NetflixCloneReactJs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank">
+</a> 
   
 <a href="https://netflix-clone-react-js-taupe.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
 <br/> <br/> 
