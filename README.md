@@ -4,19 +4,13 @@
 
 ## Olá, sou Jeff!, Seja Bem vindo ao meu Github
 <br />
-<p align="left"> 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿</p>
-<p align="left"> 🏆 DIO Campus Expert.</p>
 <img align="left" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
-
 <div>
-<br />
+<p align="left"> 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿</p>
 <p align="left"> 📰 Desde 2014 atuando na área de TECH SUPPORT. Em projetos para grandes empresas do segmento de Tecnologia como MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.</p>
-<p align="left"> 📚 Desde 2020 como estudante e BOLSISTA na DIGITAL INNOVATION ONE, tendo realizado cursos e Boocamps de imersão.</p>
-<p align="left"> 🧪 1 Ano e 5 Meses de experiencia em desenvolvimento de aplicações Web nas Stacks Java, JavaScript, React e NodeJs.</p><br /><br />
-<p align="left"> 🌱 Atualmente cursando SISTEMAS PARA INTERNET pela ANHEMBI MORUMBI SP.</p>
-<p align="left"> 🚀 Em fase de transição de carreira para area de Desenvolvimento de Software.<br />
- </p>
-  </div>
+<p align="left"> 🧪 1 Ano e 5 Meses de experiencia em desenvolvimento de aplicações Web nas Stacks Java, JavaScript, React e NodeJs.</p>
+<p align="left"> 🚀 Cursando SISTEMAS PARA INTERNET pela ANHEMBI MORUMBI SP. Em fase de transição de carreira para area de Desenvolvimento de Software.</p>
+</div>
  
 #
   
@@ -37,49 +31,23 @@
 #
   
 <div style="display: flex"><br> 
-
-**Front-End:** 
-  
+ 
 <img align="center" alt="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <span>&nbsp;&nbsp;</span>
 <img align="center" alt="CSS3" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <span>&nbsp;&nbsp;</span>  
 <img align="center" alt="JavaScript" height="25"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Styled-Component"  height="25" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img align="center" alt="Java"  height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Bootstrap "  height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<span>&nbsp;&nbsp;</span>  
-<img align="center" alt="MUI"  height="25" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-<span>&nbsp;&nbsp;</span>  
 <img align="center" alt="React" height="25"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<span>&nbsp;&nbsp;</span>  
-<img align="center" alt="Redux"  height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<span>&nbsp;&nbsp;</span>  
-<img align="center" alt="TypeScript" height="25"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <span>&nbsp;&nbsp;</span>
-<br /><br />
-  
-**Back-End**
-  
-<img align="center" alt="TypeScript" height="25"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
 <img align="center" alt="NodeJs" height="25"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <span>&nbsp;&nbsp;</span> 
 <img align="center" alt="ExpressJs" height="25"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <span>&nbsp;&nbsp;</span>  
-<img align="center" alt="Next"  height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<span>&nbsp;&nbsp;</span>
-<img align="center" alt="Java"  height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<span>&nbsp;&nbsp;</span> 
 <br /><br />
 
-**Mobile**
-  
-<img align="center" alt="React Native" height="25"  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<span>&nbsp;&nbsp;</span> 
-<img align="center" alt="Kotlin"  height="25" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-<span>&nbsp;&nbsp;</span>   
 </div>
 
 # Projetos Recentes
@@ -124,37 +92,7 @@
   
 #  
   
-# React Power Effects Css Components  
-  
-<img align="left" alt="Components React Style" width="50%" src="https://user-images.githubusercontent.com/10172471/148016672-4f402b5a-6e7c-469b-981a-d61df48d9536.png">
-
-<div style="display: inline_block" align='right'>
-Botoes Social Media Multiplas Camadas
-
-- [x] Arquitetura React
-- [x] Estilização com Styled-Components
-
-<a href="https://github.com/jefersonrgomes/my-components-css" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> <a href="https://my-components-css.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
-</div>
-
-<br/> <br/>     
-#  
-  
-<img align="right" alt="Netflix Clone Interface" width="50%" src="https://user-images.githubusercontent.com/10172471/148016734-99c716ec-3351-4c3a-afbd-02b0008dc845.png">
-
-**Card View Dark Style**
-
-- [x] Arquitetura React
-- [x] Estilização com Styled-Components
-
-<a href="https://github.com/jefersonrgomes/my-components-css" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> <a href="https://my-components-css.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a>   
-<br/> <br/>     
-#  
-  
 ![Snake animation](https://github.com/jefersonrgomes/jefersonrgomes/blob/output/github-contribution-grid-snake.svg)
- 
- 
- ![Snake animation](https://github.com/wesleyvicente/wesleyvicente/blob/output/github-contribution-grid-snake.svg)
 
 #  
  
