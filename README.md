@@ -1,4 +1,4 @@
-# Olá, sou Jeferson !, Seja Bem vindo ao meu Github.
+# Seja Bem vindo ao meu Github.
 **IT Support Specialist - Tier 2 | Dev Junior Java | Q.A | Javascript | React | Node | DIO Campus Expert.**
 
 <br />
