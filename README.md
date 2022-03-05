@@ -1,14 +1,13 @@
-# Seja Bem vindo ao meu Github.
+# HI, WELLCOME TO MY GITHUB PORTFOLIO.
 
 <br/>
 <img align="right" alt="Programing" width="500" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif">
 <div>
-<p align="left"> 🔭  Paulista, 🎮 Gamer, 🖖 Geek e critico amador de filmes 🎞 da Netflix 🍿</p>
-<p align="left"> 📰 Desde 2014 atuando na área de TECH SUPPORT. Em projetos para grandes empresas do segmento de Tecnologia como MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.</p>
-<p align="left"> 🧪 1 Ano e 7 Meses de EXP Q.A, Java, JavaScript, React e NodeJs .</p>
-<p align="left"> 🚀 Cursando SISTEMAS PARA INTERNET pela ANHEMBI MORUMBI SP.</p>
-</div>
- 
+<p align="left"> 🔭 Paulista, 🎮 Gamer, 🖖 Geek and amateur movie critic 🎞 from Netflix 🍿</p>
+<p align="left"> 📰 Since 2014 working in the area of TECH SUPPORT. In projects for big companies in the Technology segment such as MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.</p>
+<p align="left"> 🧪 1 Year and 7 Months EXP Q.A, Java, JavaScript, React and NodeJs .</p>
+<p align="left"> 🚀 Studying INTERNET SYSTEMS at ANHEMBI MORUMBI SP.</p> 
+  
 #
 
 <div  style="display: inline_block" align='center'>
@@ -41,16 +40,16 @@
 <span>&nbsp;&nbsp;</span> 
 </div>
  
-# PORTIFOLIO 
+# PORTFOLIO 
 
 <div align="left" style="display: flex">  
 <img align="right" alt="Imagem ilustrativa da pagina de projeto Netflix Clone Interface" height="250" src="https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png">
 
-**INTERFACE NETFLIX - REACTJS/API IMDB**
+**INTERFACE NETFLIX - REACTJS WITH API IMDB**
 
-- [x] Baseado em Arquitetura React
-- [x] Integração com API IMDB utilizando Axios
-- [x] Estilização com Styled-Components e Material Design
+- [x] REACT COMPONENTS.
+- [x] INTEGRATION WITH API IMDB USING AXIOS LIBRARY.
+- [x] USED STYLED-COMPONENTS AND MUI.
 
 <a href="https://github.com/jefersonrgomes/NetflixCloneReactJs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
   
@@ -61,35 +60,44 @@
 # 
 
 <div  style="display: inline_block" align='center'>
-<img align="center"  alt="HTML5"  src="https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png">
+<a href="https://lp.digitalinnovation.one/campus-expert?ref=QBSU9OLWTJ" target="_blank">
+<img align="center" height="225" alt="DIO Campus Expert"  src="https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png">
+<a/>
 </div> 
-  
+   
 #
  
 <div align="left" style="display: flex"><br>  
 <img align="right" alt="Programa executado no Intelij-IDEA Terminal" height="250" src="https://user-images.githubusercontent.com/10172471/150661444-6aceee25-0f52-47e7-a001-7e47879748f1.png">
 
-**JAVA P.O.O - BANCO DIGITAL**
+**JAVA P.O.O - DIGITAL BANK CLASSES**
 
-- [x] Java e Orientação a Objeto
-- [x] Associação de Classes em Java
-- [X] Enumeradores e Interfaces em Java
+- [x] JAVA P.O.O
+- [x] ASSOCIATION OF CLASSES IN JAVA
+- [X] ENUMS AND INTERFACES JAVA
 
 <a href="https://github.com/jefersonrgomes/desafio-dio-banco/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
 <br/> <br/> <br/> <br/> 
  </div> 
 
 #  
+ 
+<div  style="display: inline_block" align='center'>
+<a href="https://dio.me/sign-up?ref=QBSU9OLWTJ" target="_blank">
+<img align="center" height="225"  alt="DIO New Accounts"  src="https://user-images.githubusercontent.com/10172471/156898864-fc8b6385-7107-45ba-87c8-c752901a4deb.png">
+<a/>
+</div> 
+
 #
 
 <div align="left" style="display: flex"><br>  
 <img align="right" alt="Netflix Clone Interface"  height="250" src="https://user-images.githubusercontent.com/10172471/151708382-d0f5d504-71e0-4096-83ca-cd8e39debb13.png">
 
-**JOGO GENIUS - JAVASCRIPT AVANÇADO**
+**GAME GENIUS MAKE WITH JAVASCRIPT ADVANCED**
 
 - [x] HTML5
-- [x] CSS3
-- [X] JavaScript
+- [x] STYLED WITH CSS3
+- [X] JAVASCRIPT ES6
   
 <a href="https://github.com/jefersonrgomes/dio-genius-game" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> 
   
