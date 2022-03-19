@@ -3,7 +3,7 @@
 | **<p align="left"> 🔭 Paulista, 🎮 Gamer, 🖖 Geek and amateur movie critic 🎞 from Netflix 🍿</p>** |
 | ------------------- |
 | <img alt="Programing" width="65%" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif"> |
-| <p align="left"> 📰 Since 2014 working in the area of TECH SUPPORT. In projects for big companies in the Technology segment such as MICROSOFT, STEFANINI, BTG PACTUAL, GLOBO, RAIA-DROGASIL.</p><p align="left"> 🧪 1 Year and 7 Months EXP Q.A, Java, JavaScript, React and NodeJs .</p><p align="left"> 🚀 Studying INTERNET SYSTEMS at ANHEMBI MORUMBI SP.</p> | 
+| <p align="left"> 📰 Since 2010 as a Systems Analyst working in the area of ​​TECH SUPPORT, FIELD and SERVICE-DESK.</p><p align="left"> 🧪 1 Year and 8 Months Exp in Java, Kotlin, Q.A, JavaScript, React and NodeJs.</p><p align="left"> 🚀 Currently studying SYSTEMS FOR INTERNET at ANHEMBI MORUMBI SP.</p> | 
   
 #
 
