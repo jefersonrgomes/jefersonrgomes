@@ -3,7 +3,7 @@
 | **<p align="left"> 🔭 Paulista, 🎮 Gamer, 🖖 Geek and amateur movie critic 🎞 from Netflix 🍿</p>** |
 | ------------------- |
 | <img alt="Programing" width="65%" src="https://user-images.githubusercontent.com/10172471/147827954-19ecac00-2001-4599-9373-63d3d69e6c4f.gif"> |
-| <p align="left"> • Junior JAVA BACKEND developer at SCIENSA.</p><p align="left"> • Studying SYSTEMS FOR INTERNET at ANHEMBI MORUMBI SP.</p><p align="left"> • 10 years of experience as a Systems Analyst working in the area of ​​TECH SUPPORT, FIELD SERVICE.</p> | 
+| <p align="left"> • JAVA BACKEND DEVELOPER JUNIOR at SCIENSA.</p><p align="left"> • Studying SYSTEMS FOR INTERNET at ANHEMBI MORUMBI SP.</p><p align="left"> • 10 years of experience as a Systems Analyst working in the area of ​​TECH SUPPORT, FIELD SERVICE.</p> | 
   
 #
 
