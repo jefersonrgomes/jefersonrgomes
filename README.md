@@ -49,13 +49,6 @@
 
 #
   
-<br/>
-  
-| SOU DIO CAMPUS EXPERT | VEM SER DIO TAMBEM | 
-| ------------------- | ------------------- |  
-| <a href="https://lp.digitalinnovation.one/campus-expert?ref=QBSU9OLWTJ" target="_blank"><img alt="DIO Campus Expert"  src="https://user-images.githubusercontent.com/10172471/153278662-f49a67d6-bc3d-4cbe-8739-a6c0de1afe85.png"><a/> | <a href="https://dio.me/sign-up?ref=QBSU9OLWTJ" target="_blank"><img alt="DIO New Accounts"  src="https://user-images.githubusercontent.com/10172471/156898864-fc8b6385-7107-45ba-87c8-c752901a4deb.png"><a/> |
-#
-  
 <br />
   
 | **JAVA P.O.O - DIGITAL BANK CLASSES** |
