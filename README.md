@@ -38,7 +38,17 @@
 </div>
   
 # FEATURED PORTFOLIO ⭐
-<br/>  
+<br/>    
+
+| <p>**BOOTCAMP WIPRO BY GAMA ACADEMY**</p> |  
+| ------------------- |  
+| <img width="65%" src="https://user-images.githubusercontent.com/10172471/161387225-133ffff6-70fe-4158-b371-920b5f79f58b.png"> |
+| ✔ Wipro Bootcamp é um programa de formação NanoDegree oferecido pela multinacional Wipro em parceria com a escola Gama Academy.<br/> 
+<a href="https://github.com/jefersonrgomes/Java-Wipro-Bootcamp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a><br/>|  
+
+#
+  
+<br />  
   
 | <p>**INTERFACE NETFLIX - REACTJS WITH API IMDB**</p> |  
 | ------------------- |
