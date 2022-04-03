@@ -44,11 +44,15 @@
 | ------------------- |  
 | <img width="65%" src="https://user-images.githubusercontent.com/10172471/161387225-133ffff6-70fe-4158-b371-920b5f79f58b.png"> |
 | ✔ Wipro Bootcamp é um programa de formação NanoDegree oferecido pela multinacional Wipro em parceria com a escola Gama Academy.<br/> 
-<a href="https://github.com/jefersonrgomes/Java-Wipro-Bootcamp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a><br/>|  
-
+<a href="https://github.com/jefersonrgomes/Java-Wipro-Bootcamp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a><br/>
+| PRIMEIRO DESAFIO DE PROJETO WIPRO - <a href="https://github.com/jefersonrgomes/Java-Wipro-Bootcamp/tree/master/src/main/java/aula03/atividades">MERCADO DIGITAL JAVA</a>
+| 🛒 Neste primeiro desafio de projeto, colocamos em pratica os conceitos fundamentais de Java, e fomos desafiados a não utilizar conceitos de POO. Assim criamos uma solução baseada em recursos do dia a dia e programação funcional. Nesta solução que roda exclusivamente em Console, vamos buscar produtos por código, adicionar quantidades dos itens selecionados e somar os preços de diversos itens que queremos comprar e adicionar desconto dependendo da forma de pagamento.
+| <img width="40%" src="https://user-images.githubusercontent.com/10172471/161419717-58c7b625-e30c-4ac0-a5a0-0aba39b9e0be.png">
+ 
 #
   
 <br />  
+  
   
 | <p>**INTERFACE NETFLIX - REACTJS WITH API IMDB**</p> |  
 | ------------------- |
