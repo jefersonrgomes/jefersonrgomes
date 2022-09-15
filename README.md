@@ -37,50 +37,6 @@
 <span>&nbsp;&nbsp;</span> 
 </div>
   
-# ⭐ TOP PORTFOLIO 
-<br/>    
-
-| <p>**BOOTCAMP WIPRO BY GAMA ACADEMY**</p> |  
-| ------------------- |  
-| <img width="65%" src="https://user-images.githubusercontent.com/10172471/161387225-133ffff6-70fe-4158-b371-920b5f79f58b.png"> |
-| ✔ Wipro Bootcamp é um programa de formação NanoDegree oferecido pela multinacional Wipro em parceria com a escola Gama Academy.<br/> 
-<a href="https://github.com/jefersonrgomes/Java-Wipro-Bootcamp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a><br/>
-| PRIMEIRO DESAFIO DE PROJETO WIPRO - <a href="https://github.com/jefersonrgomes/Java-Wipro-Bootcamp/tree/master/src/main/java/aula03/atividades">MERCADO DIGITAL JAVA</a>
-| 🛒 Neste primeiro desafio de projeto, colocamos em pratica os conceitos fundamentais de Java, e fomos desafiados a não utilizar conceitos de POO. Assim criamos uma solução baseada em recursos do dia a dia e programação funcional. Nesta solução que roda exclusivamente em Console, vamos buscar produtos por código, adicionar quantidades dos itens selecionados e somar os preços de diversos itens que queremos comprar e adicionar desconto dependendo da forma de pagamento.
-| <img width="40%" src="https://user-images.githubusercontent.com/10172471/161419717-58c7b625-e30c-4ac0-a5a0-0aba39b9e0be.png">
- 
-#
-  
-<br />  
-  
-  
-| <p>**INTERFACE NETFLIX - REACTJS WITH API IMDB**</p> |  
-| ------------------- |
-| <img alt="Imagem ilustrativa da pagina de projeto Netflix Clone Interface" width="65%" src="https://user-images.githubusercontent.com/10172471/140009531-374b26f3-b6e1-4621-8778-a5ec39eb920a.png"> |
-| ✔ REACT COMPONENTS.<br/>⚙ API INTEGRATION WITH IMDB USING AXIOS LIBRARY.<br/>🎨 USED STYLED-COMPONENTS AND MUI.<br/> 
-<a href="https://github.com/jefersonrgomes/NetflixCloneReactJs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a><br/> 
-<a href="https://netflix-clone-react-js-taupe.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a> |  
-
-#
-  
-<br />
-  
-| **JAVA P.O.O - DIGITAL BANK CLASSES** |
-| ------------------- |
-|  <img alt="Programa executado no Intelij-IDEA Terminal" src="https://user-images.githubusercontent.com/10172471/150661444-6aceee25-0f52-47e7-a001-7e47879748f1.png"> |
-| ✔ JAVA P.O.O<br/> ⚙ ASSOCIATION OF CLASSES IN JAVA<br/> ⚙ ENUMS AND INTERFACES JAVA<br/>  
-<a href="https://github.com/jefersonrgomes/desafio-dio-banco/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a> | 
-
-#
-<br/>  
-
-| **GAME GENIUS MAKE WITH JAVASCRIPT ADVANCED** | 
-| ------------------- | 
-| <img alt="Netflix Clone Interface"  width="65%" src="https://user-images.githubusercontent.com/10172471/151708382-d0f5d504-71e0-4096-83ca-cd8e39debb13.png"> | 
-| ✔ HTML5<br/> 🎨 STYLED WITH CSS3<br/> ⚙ JAVASCRIPT ES6<br/>  
-<a href="https://github.com/jefersonrgomes/dio-genius-game" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a><br/>  
-<a href="https://dio-genius-game.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/10172471/148669545-d84d8d40-5b04-46dd-9598-b0cff9770ef0.png" height="25" target="_blank"></a> |
- 
 #  
   
 ![Snake animation](https://github.com/jefersonrgomes/jefersonrgomes/blob/output/github-contribution-grid-snake.svg)
