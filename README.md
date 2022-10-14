@@ -2,7 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/10172471/195746471-fbf40e4c-327f-474c-8c7a-df12d9686ce7.png) 
 
-## <p align="center"> #Backend #Java #SpringBoot #Quarkus #REST #MuleSoft #RAML #API #OracleSQL #DataWeave #AWS #Jenkins #Sonar #BitBuket #Scrum #Agile.</p> 
+### <p align="center"> Desenvolvimento BackEnd: #Java POO #SpringMVC #Quarkus #Panache #OracleSQL #MongoDB</p> 
+### <p align="center"> Criação e Integração de APIs REST: #MuleSoft #RAML #DataWeave #PostMan</p> 
+### <p align="center"> Metodologias Ágeis: #SCRUM #TDD #BDD #JIRA #JENKINS #SONAR #BitBucket | Git | GitHub.</p> 
 
 <div  style="display: inline_block" align='center'>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="https://www.linkedin.com/in/jefersonribeirogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="135" target="_blank"></a> 
