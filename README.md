@@ -7,20 +7,18 @@ Possuo experiencia em tecnologias como Oracle, SQL e MongoDB para operações CR
 Tenho experiência em suporte e sustentação de sistemas legados e utilizo Git para controle de versão.
 Também possuo conhecimentos em desenvolvimento de aplicações Low-Code em OutSystems Reactive e Mobile. 
 Estou sempre buscando expandir meu conhecimento e aprimorar minhas habilidades para fornecer soluções de qualidade e segurança para os meus clientes.</p> 
-<br />
 
 #### <p align="left"> BackEnd: #Java 8+ #Spring-Data #Spring-Boot #Hibernate #Quarkus #Panache #OracleSQL #PostgreSQL #MongoDB #flywaydb #Git</p> 
 #### <p align="left"> API-REST: #MuleSoft #RAML #DataWeave #PostMan</p> 
 #### <p align="left"> Agilidade: #SCRUM #TDD #BDD #JIRA</p> 
-
-![image](https://user-images.githubusercontent.com/10172471/195746471-fbf40e4c-327f-474c-8c7a-df12d9686ce7.png) 
-
-
-<div  style="display: inline_block" align='center'>
+<br>
+<div  style="display: inline_block" align='left'>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="https://www.linkedin.com/in/jefersonribeirogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="135" target="_blank"></a> 
 </div> 
 
-<br />
+#
+![image](https://user-images.githubusercontent.com/10172471/195746471-fbf40e4c-327f-474c-8c7a-df12d9686ce7.png) 
+#
 
 <div style="display: inline_block" align='center'>
   <a href="https://beacons.ai/jefersonrgomes">
