@@ -8,8 +8,11 @@ Minha abordagem de trabalho é fortemente influenciada por metodologias ágeis, 
 
 Estou comprometido em continuar aprimorando minhas habilidades e contribuir para projetos desafiadores no campo da integração de sistemas, enquanto mantenho meu foco na entrega de valor aos clientes e parceiros..</p> 
 
-#### <p align="left">  #MuleSoft #RAML #DataWeave #PostMan #Java 8+ #Spring-Data #Spring-Boot #Hibernate #Quarkus #Panache #OracleSQL #PostgreSQL #MongoDB #flywaydb #Git #SCRUM #TDD #BDD #JIR</p> 
+#### #MuleSoft #RAML #DataWeave #PostMan #Java 8+ #Spring-Data #Spring-Boot #Hibernate #Quarkus #Panache #OracleSQL #PostgreSQL #MongoDB #flywaydb #Git #SCRUM #TDD #BDD #JIRA
+
 <br>
-<div  style="display: inline_block" align='left'>
+<br>
+
+<div  style="display: inline_block" align='center'>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="https://www.linkedin.com/in/jefersonribeirogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="135" target="_blank"></a> 
 </div> 
