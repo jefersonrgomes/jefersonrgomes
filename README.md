@@ -1,14 +1,10 @@
-# <p align="left"> Desenvolvedor MuleSoft
+![image](https://github.com/jefersonrgomes/jefersonrgomes/assets/10172471/d1b93b6f-47cd-4b1d-8eab-9c7eb1a9c8ef)
 
-<p align="left">Sou um Desenvolvedor MuleSoft com um sólido conhecimento no ecossistema MuleSoft, incluindo ferramentas como Anypoint Studio, Anypoint Platform, CloudHub, API-Led Connectivity, RAML e DataWeave, com ênfase em abordagens de design-first. Minha experiência se estende ao desenvolvimento, implantação e gerenciamento de fluxos de integração, com um forte foco em colaboração e versionamento utilizando GIT.
+# <p align="left"> Especialista em Integração de APIs e Desenvolvimento Backend
 
-Ao longo de 2 anos, tive a oportunidade de trabalhar no setor financeiro, onde participei ativamente de projetos Mule/Java para instituições bancárias e fintechs. Durante esse tempo, utilizei tecnologias como Java Spring e Quarkus para criar soluções de integração eficazes e escaláveis, contribuindo para a eficiência operacional dessas organizações.
+<p align="left">Mais de 2 anos de experiência em desenvolvimento backend, atuando na criação de APIs Restful nas linguagem Java EE, Spring Boot, Quarkus, Python Flask e integração de sistemas com Mulesoft. Sempre seguindo principios SOLID, Clean Code, TDD, BDD.</p> 
 
-Minha abordagem de trabalho é fortemente influenciada por metodologias ágeis, como Scrum e Kanban, o que me permite adaptar e entregar soluções de maneira flexível e responsiva às necessidades do negócio.
-
-Estou comprometido em continuar aprimorando minhas habilidades e contribuir para projetos desafiadores no campo da integração de sistemas, enquanto mantenho meu foco na entrega de valor aos clientes e parceiros..</p> 
-
-#### #MuleSoft #RAML #DataWeave #PostMan #Java 8+ #Spring-Data #Spring-Boot #Hibernate #Quarkus #Panache #OracleSQL #PostgreSQL #MongoDB #flywaydb #Git #SCRUM #TDD #BDD #JIRA
+####  | Mulesoft | Java Spring | Python Flask | Postman Testes Automatizados | JMeter Testes de Performance | Q.A | TDD | BDD | SOLID
 
 <br>
 <br>
