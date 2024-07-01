@@ -2,7 +2,13 @@
 
 # <p align="left"> Especialista em Integração de APIs e Desenvolvimento Backend
 
-<p align="left">Mais de 2 anos de experiência em desenvolvimento backend, atuando na criação de APIs Restful nas linguagem Java EE, Spring Boot, Quarkus, Python Flask e integração de sistemas com Mulesoft. Sempre seguindo principios SOLID, Clean Code, TDD, BDD.</p> 
+<p align="left">Ao longo de minha carreira, tenho tido a oportunidade de atuar nos setores de Banking & Fintech, Startup, Energia, e Automotivo, trabalhando em projetos que desafiaram e desafiam minhas habilidades e me permitem adquirir valiosas experiências.</p> 
+
+# Experiência técnica:
+<p
+  
+- Anypoint Platform, Design Center (API Design com RAML e OpenAPI, Governança de API ), Exchange, Runtime Manager, API Manager (Polices e Alertas Customizados), Monitoring ( Dashboards Customizados, Funções de Monitoramento de APIs, Monitoring & observability, Log Management).
+- Anypoint Studio (Dataweave, Mule4, Connectors, Authentication, Salesforce Integrations, Marketing Cloud Integrations, Troubleshooting, etc.)</p> 
 
 ####  | Mulesoft | Java Spring | Python Flask | Postman Testes Automatizados | JMeter Testes de Performance | Q.A | TDD | BDD | SOLID
 
