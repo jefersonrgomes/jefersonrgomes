@@ -1,8 +1,14 @@
-![image](https://github.com/jefersonrgomes/jefersonrgomes/assets/10172471/d1b93b6f-47cd-4b1d-8eab-9c7eb1a9c8ef)
+![image](https://github.com/user-attachments/assets/ddb62e06-6e87-4772-b146-a4258eb5dab9)
 
-# <p align="left"> Especialista em Integração de APIs e Desenvolvimento Backend
+## <p align="left"> *Mulesoft Mentor Associate | Senior Integration Solutions Analyst
 
-<p align="left">Ao longo de minha carreira, tenho tido a oportunidade de atuar nos setores de Banking & Fintech, Startup, Energia, e Automotivo, trabalhando em projetos que desafiaram e desafiam minhas habilidades e me permitem adquirir valiosas experiências.</p> 
+![Mulesoft_Mentor](https://github.com/user-attachments/assets/e54c43f4-28ab-4fc8-a0ca-406795da602d)
+
+
+## Especialista em Integração de APIs e Desenvolvimento Backend </p>
+<p align="left">
+  
+Ao longo de minha carreira, tenho tido a oportunidade de atuar nos setores de Banking & Fintech, Startup, Energia, e Automotivo, trabalhando em projetos que desafiaram e desafiam minhas habilidades e me permitem adquirir valiosas experiências.</p> 
 
 # Experiência técnica:
 <p
