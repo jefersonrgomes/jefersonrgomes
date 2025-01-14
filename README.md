@@ -2,9 +2,6 @@
 
 ## <p align="left"> *Mulesoft Mentor Associate | Senior developer Mulesoft | Integration solutions analyst
 
-## Especialista em Integração de APIs e Desenvolvimento Backend </p>
-<p align="left">
-  
 Ao longo de minha carreira, tenho tido a oportunidade de atuar nos setores de Banking & Fintech, Startup, Energia, e Automotivo, trabalhando em projetos que desafiaram e desafiam minhas habilidades e me permitem adquirir valiosas experiências.</p> 
 
 # Experiência técnica:
