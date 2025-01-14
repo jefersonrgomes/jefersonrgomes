@@ -1,9 +1,8 @@
-![image](https://github.com/user-attachments/assets/ddb62e06-6e87-4772-b146-a4258eb5dab9)
+![image](https://github.com/user-attachments/assets/87dd5fa5-4d82-45c7-8ddd-98a6ab12426a)
 
 ## <p align="left"> *Mulesoft Mentor Associate | Senior Integration Solutions Analyst
 
 ![Mulesoft_Mentor](https://github.com/user-attachments/assets/e54c43f4-28ab-4fc8-a0ca-406795da602d)
-
 
 ## Especialista em Integração de APIs e Desenvolvimento Backend </p>
 <p align="left">
