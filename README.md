@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/87dd5fa5-4d82-45c7-8ddd-98a6ab12426a)
 
-## <p align="left"> *Mulesoft Mentor Associate | Senior Integration Solutions Analyst
+## <p align="left"> *Mulesoft Mentor Associate | Senior developer Mulesoft | Integration solutions analyst
 
 ## Especialista em Integração de APIs e Desenvolvimento Backend </p>
 <p align="left">
